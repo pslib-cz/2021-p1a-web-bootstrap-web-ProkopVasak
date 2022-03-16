@@ -8,7 +8,7 @@ Požadavky:
 * alespoň 3 vzájemně prolinkované stránky
 * jedna galerie s obrázky (např. pomocí prvků typu Card)
 * všechny stránky budou fungovat na telefonu, tabletu a desktopu
-* použitý carousel
+* použitý catrousel
 * použitý jumbotron (V Bootstrap5 je to tzv Hero)
 * vytvořený formulář (kontaktní, registrační)
 * sticky záhlaví stránky s menu
